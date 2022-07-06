@@ -17,10 +17,10 @@
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
     "prepare": "husky install"
   },
-  "repository": "https://github.com/christopher-hayes/image-optimizer",
+  "repository": "https://github.com/smarthomefan/image-optimizer1",
   "author": {
-    "name": "Chris Hayes",
-    "url": "https://github.com/christopher-hayes"
+    "name": "smarthomefan",
+    "url": "https://github.com/smarthomefan"
   },
   "lint-staged": {
     "*.{js,ts,vue}": [
@@ -88,7 +88,7 @@
   },
   "build": {
     "productName": "Image Optimizer",
-    "appId": "com.orangecode.image-optimizer-chris-hayes",
+    "appId": "com.orangecode.image-optimizer-smarthomefan",
     "directories": {
       "output": "./dist"
     },
